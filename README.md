@@ -1,0 +1,1 @@
+This is my file and code for the week_1_assessment, which was a mock tech-interview. 
