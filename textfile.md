@@ -37,7 +37,8 @@ Question 4:
 
 - $ rspec -- init
 - Gives us a better scope and limits us from going rogue and code all the code. 
-- 
+- unittest to test changing color done.
+- Create an ​instance_double​​Driver​. Write a second test forthis and make it pass.
 
 //notes. 
 I did brillantly, confident and didn't second guess myself a lot, except when I sort of knew it might be wrong. Kept trying to see if it did work. 

@@ -20,4 +20,4 @@ Question 4 - Rspec(Please use your text file to put your answers in)
 ●How do you initialize ​rspec​ in a folder? Do it in our cars folder.
 ●We would ordinarily have written our tests first, then written code to make them pass.Why?
 ●Create a unit test for our ​Car​ class to test our "painting" method.'
-●A car should have a driver. Create an ​instance_double​​Driver​. Write a second test forthis and make it pass.
+●A car should have a driver. Create an ​instance_double​​Driver​. Write a second test for this and make it pass.
